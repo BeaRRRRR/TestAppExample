@@ -1,0 +1,45 @@
+{
+  "uid" : "a3823c001ada94f7",
+  "name" : "should write wrong input in the email input",
+  "fullName" : "test app.should write wrong input in the email input",
+  "historyId" : "66ec7dc69407118206e9e3bab7562b1",
+  "time" : {
+    "start" : 1546965660078,
+    "stop" : 1546965660239,
+    "duration" : 161
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'email form-control input-sm ng-untouched ng-invalid ng-dirty ng-invalid-email ng-valid-required' to equal 'email form-control input-sm ng-invalid ng-touched ng-dirty ng-invalid-email ng-valid-required'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (C:\\Users\\misha\\WebstormProjects\\angularTestingProject\\specs\\main-spec.js:47:68)\n                    at C:\\Users\\misha\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\misha\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\misha\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\misha\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\misha\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\misha\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at asyncRun (C:\\Users\\misha\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25)\n                    at C:\\Users\\misha\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test app"
+  }, {
+    "name" : "testClass",
+    "value" : "test app"
+  }, {
+    "name" : "testMethod",
+    "value" : "should write wrong input in the email input"
+  }, {
+    "name" : "package",
+    "value" : "test app"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a3823c001ada94f7.json",
+  "parameterValues" : [ ]
+}

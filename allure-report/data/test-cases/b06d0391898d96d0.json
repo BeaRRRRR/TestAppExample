@@ -1,0 +1,43 @@
+{
+  "uid" : "b06d0391898d96d0",
+  "name" : "should value in address input",
+  "fullName" : "test app.should value in address input",
+  "historyId" : "37711025aa9d3cc8849626fc3a227b24",
+  "time" : {
+    "start" : 1546882942402,
+    "stop" : 1546882947588,
+    "duration" : 5186
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test app"
+  }, {
+    "name" : "testClass",
+    "value" : "test app"
+  }, {
+    "name" : "testMethod",
+    "value" : "should value in address input"
+  }, {
+    "name" : "package",
+    "value" : "test app"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b06d0391898d96d0.json",
+  "parameterValues" : [ ]
+}

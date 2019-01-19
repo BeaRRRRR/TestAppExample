@@ -1,0 +1,45 @@
+{
+  "uid" : "6c9cb8b2a0ce3444",
+  "name" : "should write right value (which passes the validation) in the name input",
+  "fullName" : "test app.should write right value (which passes the validation) in the name input",
+  "historyId" : "a782d351f4b44fd650bf5a935b092b7e",
+  "time" : {
+    "start" : 1546964499475,
+    "stop" : 1546964499615,
+    "duration" : 140
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'username form-control input-sm ng-dirty ng-valid-parse ng-touched ng-valid-required ng-valid ng-valid-minlength' to equal 'username form-control input-sm ng-dirty ng-valid-parse ng-valid-required ng-touched ng-valid ng-valid-minlength'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (C:\\Users\\misha\\WebstormProjects\\angularTestingProject\\specs\\main-spec.js:34:67)\n                    at C:\\Users\\misha\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\misha\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\misha\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\misha\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\misha\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\misha\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at asyncRun (C:\\Users\\misha\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25)\n                    at C:\\Users\\misha\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test app"
+  }, {
+    "name" : "testClass",
+    "value" : "test app"
+  }, {
+    "name" : "testMethod",
+    "value" : "should write right value (which passes the validation) in the name input"
+  }, {
+    "name" : "package",
+    "value" : "test app"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6c9cb8b2a0ce3444.json",
+  "parameterValues" : [ ]
+}

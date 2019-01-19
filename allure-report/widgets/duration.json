@@ -1,0 +1,121 @@
+[ {
+  "uid" : "2ddb26e4bcc7420d",
+  "name" : "should press edit button",
+  "time" : {
+    "start" : 1547738667494,
+    "stop" : 1547738668048,
+    "duration" : 554
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ffd3a7d3be8a9b1c",
+  "name" : "should write right value (which passes the validation) in the name input",
+  "time" : {
+    "start" : 1547738664384,
+    "stop" : 1547738664867,
+    "duration" : 483
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f5a02f7aef96c240",
+  "name" : "should value in address input",
+  "time" : {
+    "start" : 1547738664867,
+    "stop" : 1547738665386,
+    "duration" : 519
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36f37ec97fca3c83",
+  "name" : "should write blank value in the email input",
+  "time" : {
+    "start" : 1547738665935,
+    "stop" : 1547738666408,
+    "duration" : 473
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "dbccc3007fd7bb27",
+  "name" : "should delete a user",
+  "time" : {
+    "start" : 1547738668422,
+    "stop" : 1547738668771,
+    "duration" : 349
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9910578b7fc41f47",
+  "name" : "should write right value (which passes the validation) in the email input",
+  "time" : {
+    "start" : 1547738666408,
+    "stop" : 1547738666901,
+    "duration" : 493
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "65f642b6eb6ac4fb",
+  "name" : "should add user",
+  "time" : {
+    "start" : 1547738666901,
+    "stop" : 1547738667494,
+    "duration" : 593
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7537729c7fe6a7eb",
+  "name" : "should write blank value in the name input",
+  "time" : {
+    "start" : 1547738663908,
+    "stop" : 1547738664384,
+    "duration" : 476
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f320af7d7b0fa0a",
+  "name" : "should write wrong input in the name input",
+  "time" : {
+    "start" : 1547738663280,
+    "stop" : 1547738663908,
+    "duration" : 628
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "da0f6cacb1050216",
+  "name" : "should cancel deleting a user",
+  "time" : {
+    "start" : 1547738668048,
+    "stop" : 1547738668422,
+    "duration" : 374
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ff01a2436fb1649",
+  "name" : "should write wrong input in the email input",
+  "time" : {
+    "start" : 1547738665386,
+    "stop" : 1547738665935,
+    "duration" : 549
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6a72a4bf2f8c615",
+  "name" : "should get to the main page of the app",
+  "time" : {
+    "start" : 1547738660357,
+    "stop" : 1547738663280,
+    "duration" : 2923
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

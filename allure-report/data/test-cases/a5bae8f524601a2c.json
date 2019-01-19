@@ -1,0 +1,43 @@
+{
+  "uid" : "a5bae8f524601a2c",
+  "name" : "should add user",
+  "fullName" : "test app.should add user",
+  "historyId" : "69d1dc8cb04d9806b52671797cdd3b50",
+  "time" : {
+    "start" : 1546965660544,
+    "stop" : 1546965660648,
+    "duration" : 104
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test app"
+  }, {
+    "name" : "testClass",
+    "value" : "test app"
+  }, {
+    "name" : "testMethod",
+    "value" : "should add user"
+  }, {
+    "name" : "package",
+    "value" : "test app"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a5bae8f524601a2c.json",
+  "parameterValues" : [ ]
+}

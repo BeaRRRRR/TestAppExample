@@ -1,0 +1,109 @@
+{
+  "uid" : "65f642b6eb6ac4fb",
+  "name" : "should add user",
+  "fullName" : "test app.should add user",
+  "historyId" : "69d1dc8cb04d9806b52671797cdd3b50",
+  "time" : {
+    "start" : 1547738666901,
+    "stop" : 1547738667494,
+    "duration" : 593
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3a46d27888a7fb79",
+      "name" : "Screenshot",
+      "source" : "3a46d27888a7fb79.png",
+      "type" : "image/png",
+      "size" : 49856
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test app"
+  }, {
+    "name" : "testClass",
+    "value" : "test app"
+  }, {
+    "name" : "testMethod",
+    "value" : "should add user"
+  }, {
+    "name" : "package",
+    "value" : "test app"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a8616cc8e9653964",
+      "status" : "passed",
+      "time" : {
+        "start" : 1547037667472,
+        "stop" : 1547037667771,
+        "duration" : 299
+      }
+    }, {
+      "uid" : "7ac9d3ef770be4fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1546966225425,
+        "stop" : 1546966225508,
+        "duration" : 83
+      }
+    }, {
+      "uid" : "a5bae8f524601a2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1546965660544,
+        "stop" : 1546965660648,
+        "duration" : 104
+      }
+    }, {
+      "uid" : "b3d3afa25825357c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1546965625588,
+        "stop" : 1546965630662,
+        "duration" : 5074
+      }
+    }, {
+      "uid" : "a2fb59fd1dd47476",
+      "status" : "passed",
+      "time" : {
+        "start" : 1546965602721,
+        "stop" : 1546965602797,
+        "duration" : 76
+      }
+    }, {
+      "uid" : "f8565e2bcd3cf7fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1546965566146,
+        "stop" : 1546965566330,
+        "duration" : 184
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "65f642b6eb6ac4fb.json",
+  "parameterValues" : [ ]
+}

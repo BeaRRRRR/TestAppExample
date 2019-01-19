@@ -1,0 +1,43 @@
+{
+  "uid" : "cab2eed06a0c0253",
+  "name" : "should delete a user",
+  "fullName" : "test app.should delete a user",
+  "historyId" : "9528aef93c0652e9310c7e18f4a782dd",
+  "time" : {
+    "start" : 1547037672962,
+    "stop" : 1547037678209,
+    "duration" : 5247
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test app"
+  }, {
+    "name" : "testClass",
+    "value" : "test app"
+  }, {
+    "name" : "testMethod",
+    "value" : "should delete a user"
+  }, {
+    "name" : "package",
+    "value" : "test app"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cab2eed06a0c0253.json",
+  "parameterValues" : [ ]
+}

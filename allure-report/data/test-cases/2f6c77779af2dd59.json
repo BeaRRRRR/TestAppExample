@@ -1,0 +1,43 @@
+{
+  "uid" : "2f6c77779af2dd59",
+  "name" : "should write wrong input in the name input",
+  "fullName" : "test app.should write wrong input in the name input",
+  "historyId" : "82ceb5edf186ed6d96c55dffedae16e8",
+  "time" : {
+    "start" : 1546789494580,
+    "stop" : 1546789496220,
+    "duration" : 1640
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test app"
+  }, {
+    "name" : "testClass",
+    "value" : "test app"
+  }, {
+    "name" : "testMethod",
+    "value" : "should write wrong input in the name input"
+  }, {
+    "name" : "package",
+    "value" : "test app"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2f6c77779af2dd59.json",
+  "parameterValues" : [ ]
+}

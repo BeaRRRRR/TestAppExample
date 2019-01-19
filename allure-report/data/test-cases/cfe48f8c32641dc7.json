@@ -1,0 +1,43 @@
+{
+  "uid" : "cfe48f8c32641dc7",
+  "name" : "should get to the main page of the app",
+  "fullName" : "test app.should get to the main page of the app",
+  "historyId" : "4bbeea034c959f3d5b3b409810a4b376",
+  "time" : {
+    "start" : 1546964311711,
+    "stop" : 1546964313285,
+    "duration" : 1574
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test app"
+  }, {
+    "name" : "testClass",
+    "value" : "test app"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get to the main page of the app"
+  }, {
+    "name" : "package",
+    "value" : "test app"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cfe48f8c32641dc7.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546789492897' stop='1546789496220'>
+    <name>test app</name>
+    <title>test app</title>
+    <test-cases>
+        <test-case start='1546789492897' status='passed' stop='1546789494580'>
+            <name>should get to the main page of the app</name>
+            <title>should get to the main page of the app</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546789494580' status='passed' stop='1546789496220'>
+            <name>should write wrong input in the name input</name>
+            <title>should write wrong input in the name input</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

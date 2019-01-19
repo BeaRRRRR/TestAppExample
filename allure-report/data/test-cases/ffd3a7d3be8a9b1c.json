@@ -1,0 +1,249 @@
+{
+  "uid" : "ffd3a7d3be8a9b1c",
+  "name" : "should write right value (which passes the validation) in the name input",
+  "fullName" : "test app.should write right value (which passes the validation) in the name input",
+  "historyId" : "a782d351f4b44fd650bf5a935b092b7e",
+  "time" : {
+    "start" : 1547738664384,
+    "stop" : 1547738664867,
+    "duration" : 483
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'username form-control input-sm ng-dirty ng-valid-parse ng-touched ng-valid-required ng-valid ng-valid-minlength' to equal 'username form-control input-sm ng-dirty ng-valid-parse ng-valid-required ng-touched ng-valid ng-valid-minlength'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (C:\\Users\\misha\\WebstormProjects\\angularTestingProject\\specs\\main-spec.js:34:67)\n                    at C:\\Users\\misha\\WebstormProjects\\angularTestingProject\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\misha\\WebstormProjects\\angularTestingProject\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\misha\\WebstormProjects\\angularTestingProject\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\misha\\WebstormProjects\\angularTestingProject\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\misha\\WebstormProjects\\angularTestingProject\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\misha\\WebstormProjects\\angularTestingProject\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at asyncRun (C:\\Users\\misha\\WebstormProjects\\angularTestingProject\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25)\n                    at C:\\Users\\misha\\WebstormProjects\\angularTestingProject\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected 'username form-control input-sm ng-dirty ng-valid-parse ng-touched ng-valid-required ng-valid ng-valid-minlength' to equal 'username form-control input-sm ng-dirty ng-valid-parse ng-valid-required ng-touched ng-valid ng-valid-minlength'.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (C:\\Users\\misha\\WebstormProjects\\angularTestingProject\\specs\\main-spec.js:34:67)\n                    at C:\\Users\\misha\\WebstormProjects\\angularTestingProject\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\misha\\WebstormProjects\\angularTestingProject\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\misha\\WebstormProjects\\angularTestingProject\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\misha\\WebstormProjects\\angularTestingProject\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\misha\\WebstormProjects\\angularTestingProject\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\misha\\WebstormProjects\\angularTestingProject\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at asyncRun (C:\\Users\\misha\\WebstormProjects\\angularTestingProject\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25)\n                    at C:\\Users\\misha\\WebstormProjects\\angularTestingProject\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b4d2c18a4398bff0",
+      "name" : "Screenshot",
+      "source" : "b4d2c18a4398bff0.png",
+      "type" : "image/png",
+      "size" : 45540
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test app"
+  }, {
+    "name" : "testClass",
+    "value" : "test app"
+  }, {
+    "name" : "testMethod",
+    "value" : "should write right value (which passes the validation) in the name input"
+  }, {
+    "name" : "package",
+    "value" : "test app"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fdb908669476a343",
+      "status" : "failed",
+      "statusDetails" : "Expected 'username form-control input-sm ng-dirty ng-valid-parse ng-touched ng-valid-required ng-valid ng-valid-minlength' to equal 'username form-control input-sm ng-dirty ng-valid-parse ng-valid-required ng-touched ng-valid ng-valid-minlength'.",
+      "time" : {
+        "start" : 1547037666683,
+        "stop" : 1547037666832,
+        "duration" : 149
+      }
+    }, {
+      "uid" : "9e44a92575a75527",
+      "status" : "failed",
+      "statusDetails" : "Expected 'username form-control input-sm ng-dirty ng-valid-parse ng-touched ng-valid-required ng-valid ng-valid-minlength' to equal 'username form-control input-sm ng-dirty ng-valid-parse ng-valid-required ng-touched ng-valid ng-valid-minlength'.",
+      "time" : {
+        "start" : 1546966224636,
+        "stop" : 1546966224780,
+        "duration" : 144
+      }
+    }, {
+      "uid" : "7befa4a1373f4a39",
+      "status" : "failed",
+      "statusDetails" : "Expected 'username form-control input-sm ng-dirty ng-valid-parse ng-touched ng-valid-required ng-valid ng-valid-minlength' to equal 'username form-control input-sm ng-dirty ng-valid-parse ng-valid-required ng-touched ng-valid ng-valid-minlength'.",
+      "time" : {
+        "start" : 1546965659796,
+        "stop" : 1546965659930,
+        "duration" : 134
+      }
+    }, {
+      "uid" : "2a59317a155b25cf",
+      "status" : "failed",
+      "statusDetails" : "Expected 'username form-control input-sm ng-dirty ng-valid-parse ng-touched ng-valid-required ng-valid ng-valid-minlength' to equal 'username form-control input-sm ng-dirty ng-valid-parse ng-valid-required ng-touched ng-valid ng-valid-minlength'.",
+      "time" : {
+        "start" : 1546965624889,
+        "stop" : 1546965625025,
+        "duration" : 136
+      }
+    }, {
+      "uid" : "ddcec6c808af3fb4",
+      "status" : "failed",
+      "statusDetails" : "Expected 'username form-control input-sm ng-dirty ng-valid-parse ng-touched ng-valid-required ng-valid ng-valid-minlength' to equal 'username form-control input-sm ng-dirty ng-valid-parse ng-valid-required ng-touched ng-valid ng-valid-minlength'.",
+      "time" : {
+        "start" : 1546965601987,
+        "stop" : 1546965602125,
+        "duration" : 138
+      }
+    }, {
+      "uid" : "d5c90b9f676edb4c",
+      "status" : "failed",
+      "statusDetails" : "Expected 'username form-control input-sm ng-dirty ng-valid-parse ng-touched ng-valid-required ng-valid ng-valid-minlength' to equal 'username form-control input-sm ng-dirty ng-valid-parse ng-valid-required ng-touched ng-valid ng-valid-minlength'.",
+      "time" : {
+        "start" : 1546965560368,
+        "stop" : 1546965560517,
+        "duration" : 149
+      }
+    }, {
+      "uid" : "6c9cb8b2a0ce3444",
+      "status" : "failed",
+      "statusDetails" : "Expected 'username form-control input-sm ng-dirty ng-valid-parse ng-touched ng-valid-required ng-valid ng-valid-minlength' to equal 'username form-control input-sm ng-dirty ng-valid-parse ng-valid-required ng-touched ng-valid ng-valid-minlength'.",
+      "time" : {
+        "start" : 1546964499475,
+        "stop" : 1546964499615,
+        "duration" : 140
+      }
+    }, {
+      "uid" : "301f2e8ab93f9a81",
+      "status" : "failed",
+      "statusDetails" : "Expected 'username form-control input-sm ng-dirty ng-valid-parse ng-touched ng-valid-required ng-valid ng-valid-minlength' to equal 'username form-control input-sm ng-dirty ng-valid-parse ng-valid-required ng-touched ng-valid ng-valid-minlength'.",
+      "time" : {
+        "start" : 1546964446181,
+        "stop" : 1546964446336,
+        "duration" : 155
+      }
+    }, {
+      "uid" : "5d1992da9b81067f",
+      "status" : "failed",
+      "statusDetails" : "Expected 'email form-control input-sm ng-invalid ng-dirty ng-touched ng-invalid-email ng-valid-required' to equal 'email form-control input-sm ng-touched ng-dirty ng-valid-email ng-valid ng-valid-required'.",
+      "time" : {
+        "start" : 1546964314228,
+        "stop" : 1546964314367,
+        "duration" : 139
+      }
+    }, {
+      "uid" : "95c1926252f72f6e",
+      "status" : "failed",
+      "statusDetails" : "Expected 'username form-control input-sm ng-dirty ng-valid-parse ng-touched ng-valid-required ng-valid ng-valid-minlength' to equal 'username form-control input-sm ng-dirty ng-valid-parse ng-valid-required ng-touched ng-valid ng-valid-minlength'.",
+      "time" : {
+        "start" : 1546964313613,
+        "stop" : 1546964313755,
+        "duration" : 142
+      }
+    }, {
+      "uid" : "f9d893b94121f464",
+      "status" : "failed",
+      "statusDetails" : "Expected 'email form-control input-sm ng-invalid ng-dirty ng-touched ng-invalid-email ng-valid-required' to equal 'email form-control input-sm ng-touched ng-dirty ng-valid-email ng-valid ng-valid-required'.",
+      "time" : {
+        "start" : 1546964286876,
+        "stop" : 1546964287008,
+        "duration" : 132
+      }
+    }, {
+      "uid" : "6f6486e990bd7847",
+      "status" : "failed",
+      "statusDetails" : "Expected 'username form-control input-sm ng-dirty ng-valid-parse ng-touched ng-valid-required ng-valid ng-valid-minlength' to equal 'username form-control input-sm ng-dirty ng-valid-parse ng-valid-required ng-touched ng-valid ng-valid-minlength'.",
+      "time" : {
+        "start" : 1546964281244,
+        "stop" : 1546964281383,
+        "duration" : 139
+      }
+    }, {
+      "uid" : "dca5d725d562d400",
+      "status" : "failed",
+      "statusDetails" : "Expected 'email form-control input-sm ng-invalid ng-dirty ng-touched ng-invalid-email ng-valid-required' to equal 'email form-control input-sm ng-touched ng-dirty ng-valid-email ng-valid ng-valid-required'.",
+      "time" : {
+        "start" : 1546963173349,
+        "stop" : 1546963173492,
+        "duration" : 143
+      }
+    }, {
+      "uid" : "63d6f847e108c17e",
+      "status" : "failed",
+      "statusDetails" : "Expected 'username form-control input-sm ng-dirty ng-valid-parse ng-touched ng-valid-required ng-valid ng-valid-minlength' to equal 'username form-control input-sm ng-dirty ng-valid-parse ng-valid-required ng-touched ng-valid ng-valid-minlength'.",
+      "time" : {
+        "start" : 1546963167692,
+        "stop" : 1546963167833,
+        "duration" : 141
+      }
+    }, {
+      "uid" : "d5254977abbb6cf9",
+      "status" : "failed",
+      "statusDetails" : "Expected 'username form-control input-sm ng-dirty ng-valid-parse ng-touched ng-valid-required ng-valid ng-valid-minlength' to equal 'username form-control input-sm ng-dirty ng-valid-parse ng-valid-required ng-touched ng-valid ng-valid-minlength '.",
+      "time" : {
+        "start" : 1546882942251,
+        "stop" : 1546882942402,
+        "duration" : 151
+      }
+    }, {
+      "uid" : "401c6cbc819bc53",
+      "status" : "failed",
+      "statusDetails" : "Expected 'username form-control input-sm ng-dirty ng-valid-parse ng-touched ng-valid-required ng-valid ng-valid-minlength' to equal 'username form-control input-sm ng-dirty ng-valid-parse ng-valid-required ng-touched ng-valid ng-valid-minlength '.",
+      "time" : {
+        "start" : 1546882868662,
+        "stop" : 1546882873807,
+        "duration" : 5145
+      }
+    }, {
+      "uid" : "3ea83e9e5d28d3a3",
+      "status" : "failed",
+      "statusDetails" : "Expected 'username form-control input-sm ng-dirty ng-valid-parse ng-touched ng-valid-required ng-valid ng-valid-minlength' to equal 'username form-control input-sm ng-dirty ng-valid-parse ng-valid-required ng-touched ng-valid ng-valid-minlength '.",
+      "time" : {
+        "start" : 1546880751574,
+        "stop" : 1546880756731,
+        "duration" : 5157
+      }
+    }, {
+      "uid" : "3c6bf3674db18450",
+      "status" : "failed",
+      "statusDetails" : "Expected 'username form-control input-sm ng-dirty ng-valid-parse ng-touched ng-valid-required ng-valid ng-valid-minlength' to equal 'username form-control input-sm ng-dirty ng-valid-parse ng-valid-required ng-touched ng-valid ng-valid-minlength '.",
+      "time" : {
+        "start" : 1546880721326,
+        "stop" : 1546880726492,
+        "duration" : 5166
+      }
+    }, {
+      "uid" : "22a000ade1cfc056",
+      "status" : "failed",
+      "statusDetails" : "Expected 'username form-control input-sm ng-dirty ng-valid-parse ng-touched ng-valid-required ng-valid ng-valid-minlength' to equal 'username form-control input-sm ng-dirty ng-valid-parse ng-valid-required ng-touched ng-valid ng-valid-minlength '.",
+      "time" : {
+        "start" : 1546880108189,
+        "stop" : 1546880113339,
+        "duration" : 5150
+      }
+    }, {
+      "uid" : "194240a2e12b0327",
+      "status" : "failed",
+      "statusDetails" : "Failed: userFormPage.getAddButton.isEnabled is not a function",
+      "time" : {
+        "start" : 1546880008325,
+        "stop" : 1546880008330,
+        "duration" : 5
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "ffd3a7d3be8a9b1c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,183 @@
+{
+  "uid" : "f5a02f7aef96c240",
+  "name" : "should value in address input",
+  "fullName" : "test app.should value in address input",
+  "historyId" : "37711025aa9d3cc8849626fc3a227b24",
+  "time" : {
+    "start" : 1547738664867,
+    "stop" : 1547738665386,
+    "duration" : 519
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ab0cc7316aad5ff",
+      "name" : "Screenshot",
+      "source" : "ab0cc7316aad5ff.png",
+      "type" : "image/png",
+      "size" : 44102
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test app"
+  }, {
+    "name" : "testClass",
+    "value" : "test app"
+  }, {
+    "name" : "testMethod",
+    "value" : "should value in address input"
+  }, {
+    "name" : "package",
+    "value" : "test app"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9c24c85fedf06017",
+      "status" : "passed",
+      "time" : {
+        "start" : 1547037666832,
+        "stop" : 1547037666993,
+        "duration" : 161
+      }
+    }, {
+      "uid" : "17d97cbf0d14b8b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1546966224780,
+        "stop" : 1546966224957,
+        "duration" : 177
+      }
+    }, {
+      "uid" : "6953c3992df6283d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1546965659930,
+        "stop" : 1546965660078,
+        "duration" : 148
+      }
+    }, {
+      "uid" : "a55f5d98f8296f25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1546965625025,
+        "stop" : 1546965625165,
+        "duration" : 140
+      }
+    }, {
+      "uid" : "6804a631297a1455",
+      "status" : "passed",
+      "time" : {
+        "start" : 1546965602125,
+        "stop" : 1546965602266,
+        "duration" : 141
+      }
+    }, {
+      "uid" : "46714be83ab97ae3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1546965560517,
+        "stop" : 1546965560690,
+        "duration" : 173
+      }
+    }, {
+      "uid" : "6daab817d0eff907",
+      "status" : "passed",
+      "time" : {
+        "start" : 1546964499615,
+        "stop" : 1546964499762,
+        "duration" : 147
+      }
+    }, {
+      "uid" : "dd85fedb47be99c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1546964446336,
+        "stop" : 1546964446520,
+        "duration" : 184
+      }
+    }, {
+      "uid" : "65bee66dec254cdf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1546964313755,
+        "stop" : 1546964313916,
+        "duration" : 161
+      }
+    }, {
+      "uid" : "6a826992471f8707",
+      "status" : "passed",
+      "time" : {
+        "start" : 1546964281383,
+        "stop" : 1546964286537,
+        "duration" : 5154
+      }
+    }, {
+      "uid" : "147d56d60b112f6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1546963167833,
+        "stop" : 1546963173001,
+        "duration" : 5168
+      }
+    }, {
+      "uid" : "b06d0391898d96d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1546882942402,
+        "stop" : 1546882947588,
+        "duration" : 5186
+      }
+    }, {
+      "uid" : "5297083b1085113f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1546882873807,
+        "stop" : 1546882873988,
+        "duration" : 181
+      }
+    }, {
+      "uid" : "c0a08192c3f1993",
+      "status" : "failed",
+      "statusDetails" : "Expected '' to equal 'Address4'.",
+      "time" : {
+        "start" : 1546880756731,
+        "stop" : 1546880756899,
+        "duration" : 168
+      }
+    }, {
+      "uid" : "8e86ba56a581540b",
+      "status" : "failed",
+      "statusDetails" : "Failed: userFormPage.getAddressInput.getAttribute is not a function",
+      "time" : {
+        "start" : 1546880726492,
+        "stop" : 1546880726497,
+        "duration" : 5
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f5a02f7aef96c240.json",
+  "parameterValues" : [ ]
+}

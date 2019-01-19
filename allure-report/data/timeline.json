@@ -1,0 +1,149 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "should press edit button",
+    "uid" : "2ddb26e4bcc7420d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1547738667494,
+      "stop" : 1547738668048,
+      "duration" : 554
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "should write right value (which passes the validation) in the name input",
+    "uid" : "ffd3a7d3be8a9b1c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1547738664384,
+      "stop" : 1547738664867,
+      "duration" : 483
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "should value in address input",
+    "uid" : "f5a02f7aef96c240",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1547738664867,
+      "stop" : 1547738665386,
+      "duration" : 519
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "should write blank value in the email input",
+    "uid" : "36f37ec97fca3c83",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1547738665935,
+      "stop" : 1547738666408,
+      "duration" : 473
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "should delete a user",
+    "uid" : "dbccc3007fd7bb27",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1547738668422,
+      "stop" : 1547738668771,
+      "duration" : 349
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "should write right value (which passes the validation) in the email input",
+    "uid" : "9910578b7fc41f47",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1547738666408,
+      "stop" : 1547738666901,
+      "duration" : 493
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "should add user",
+    "uid" : "65f642b6eb6ac4fb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1547738666901,
+      "stop" : 1547738667494,
+      "duration" : 593
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "should write blank value in the name input",
+    "uid" : "7537729c7fe6a7eb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1547738663908,
+      "stop" : 1547738664384,
+      "duration" : 476
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "should write wrong input in the name input",
+    "uid" : "5f320af7d7b0fa0a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1547738663280,
+      "stop" : 1547738663908,
+      "duration" : 628
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "should cancel deleting a user",
+    "uid" : "da0f6cacb1050216",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1547738668048,
+      "stop" : 1547738668422,
+      "duration" : 374
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "should write wrong input in the email input",
+    "uid" : "7ff01a2436fb1649",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1547738665386,
+      "stop" : 1547738665935,
+      "duration" : 549
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "should get to the main page of the app",
+    "uid" : "d6a72a4bf2f8c615",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1547738660357,
+      "stop" : 1547738663280,
+      "duration" : 2923
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  } ]
+}
