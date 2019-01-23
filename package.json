@@ -1,7 +1,27 @@
 {
   "name": "angular-testing-project",
+  "description": "Just a test project",
+  "author": {
+    "name" : "Mihail Kedel",
+    "email": "mishanx873@gmail.com",
+    "url" : "https://www.linkedin.com/in/michael-kedel-678b4a161/"
+  },
   "version": "1.0.0",
-  "description": "",
+  "keywords": [
+    "angular",
+    "protractor",
+    "jasmine",
+    "qa testing"
+  ],
+  "homepage": "https://github.com/BeaRRRRR/TestAppExample",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BeaRRRRR/TestAppExample"
+  },
+  "bugs": {
+    "url": "https://github.com/BeaRRRRR/TestAppExample/issues",
+    "email": "mishanx873@gmail.com"
+  },
   "main": "index.js",
   "scripts": {
     "preinstall": "npm cache verify",
@@ -9,7 +29,6 @@
     "test": "protractor conf.js",
     "posttest": "allure generate allure-results --clean -o allure-report || true"
   },
-  "author": "BeaRRRR",
   "license": "ISC",
   "dependencies": {
     "protractor": "^5.4.2"
