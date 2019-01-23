@@ -29,4 +29,5 @@ exports.config = {
         "test": "protractor conf.js",
         "posttest": "allure generate allure-results --clean -o allure-report  && allure open allure-report || true"
     }
+
 };
