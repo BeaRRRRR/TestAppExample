@@ -3,6 +3,16 @@ var userFormPage= function () {
     var addressInput = element(by.id('address'));
     var addBUtton = element(by.id('submit'));
     var emailInput = element(by.id('email'));
+    var resetFormButton = element(by.id('reset'));
+    var updateButton = element(by.id('submit'));
+
+    this.clickUpdateButton = function () {
+        updateButton.click();
+    };
+
+    this.clickResetFormButton = function () {
+        resetFormButton.click();
+    };
 
     this.getEmailInput = function () {
         return emailInput;
