@@ -27,7 +27,7 @@
     "preinstall": "npm cache verify",
     "pretest": "rm -rf allure-report",
     "test": "protractor conf.js",
-    "posttest": "allure generate allure-results --clean -o allure-report && allure open || true"
+    "posttest": "allure generate allure-results --clean -o allure-report || true"
   },
   "license": "ISC",
   "dependencies": {
