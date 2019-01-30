@@ -1,13 +1,18 @@
 var userListPage = function () {
-    var editButton = element(by.id('edit'));
-    var removeButton = element.all(by.repeater('u in controller.users')).get(3).element(by.id('remove')).click();
+    var editButton = element.all(by.id('edit')).last();
+    var removeButton = element.all(by.id('remove')).last();
+    var users = element.all(by.repeater('u in controller.users'));
+
+    this.getUserList = function () {
+        return users;
+    };
 
     this.clickEditButton = function () {
         editButton.click();
     };
 
     this.clickRemoveButton = function () {
-        removeButton.click()
+        removeButton.click();
     }
 };
 

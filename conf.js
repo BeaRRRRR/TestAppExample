@@ -1,7 +1,6 @@
 exports.config = {
     seleniumAddress: 'http://localhost:4444/wd/hub',
     onPrepare : function() {
-        // browser.manage().window().setSize(1600, 1000);
         browser.manage().window().maximize();
         var AllureReporter = require('jasmine-allure-reporter');
         jasmine.getEnv().addReporter(new AllureReporter({
@@ -24,10 +23,4 @@ exports.config = {
         showColors: true,
         defaultTimeoutInterval: 3000000,
     },
-    scripts: {
-        "pretest": "rm -rf allure-report",
-        "test": "protractor conf.js",
-        "posttest": "allure generate allure-results --clean -o allure-report  && allure open allure-report || true"
-    }
-
 };

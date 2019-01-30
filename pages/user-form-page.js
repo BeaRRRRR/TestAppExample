@@ -42,18 +42,6 @@ var userFormPage= function () {
         addressInput.clear().sendKeys(keys);
     }
 
-    // this.sendKeysNameInput = function (id, keys) {
-    //     var targetInput = element(by.id(id));
-    //     (<HTMLInputElement>targetInput).focus().clear().sendKeys(keys)
-    // };
-
-    // this.getInputValue = function (id) {
-    //     return (<HTMLInputElement>document.getElementById(id)).value
-    // };
-
-    // this.getInputValue = function (id) {
-    //     return document.getElementById(id).className
-    // };
 };
 
 module.exports = new userFormPage();
