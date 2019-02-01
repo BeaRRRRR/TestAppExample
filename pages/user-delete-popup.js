@@ -3,11 +3,11 @@ var userDeletePopup = function () {
     var okButton = element(by.id('ok'));
 
     this.clickCancelButton = function () {
-        element(by.id('cancel')).click();
+        cancelButton.click();
     };
 
     this.clickOkButton = function () {
-        element(by.id('ok')).click();
+        okButton.click();
     }
 };
 

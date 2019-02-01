@@ -14,11 +14,20 @@ exports.config = {
                 done();
             })
         });
+        browser.get('http://localhost:8080/TestAppExample/index');
     },
     capabilities: {
         'browserName': 'chrome'
     },
-    specs: ['specs/main-spec.js'],
+    suites : {
+        crud : [
+            'specs/crud/create-user-spec.js',
+            'specs/crud/update-user-spec.js',
+            'specs/crud/delete-user-spec.js'
+        ],
+        formValidation : 'specs/form-validation/*.js'
+    },
+
     jasmineNodeOpts: {
         showColors: true,
         defaultTimeoutInterval: 3000000,

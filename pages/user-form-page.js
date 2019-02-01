@@ -1,10 +1,16 @@
-var userFormPage= function () {
+var userFormPage = function () {
     var nameInput = element(by.id('uname'));
     var addressInput = element(by.id('address'));
     var addBUtton = element(by.id('submit'));
     var emailInput = element(by.id('email'));
     var resetFormButton = element(by.id('reset'));
     var updateButton = element(by.id('submit'));
+
+    this.clearAllFields = function () {
+        nameInput.clear();
+        addressInput.clear();
+        emailInput.clear();
+    };
 
     this.clickUpdateButton = function () {
         updateButton.click();
