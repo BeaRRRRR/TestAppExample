@@ -1,6 +1,6 @@
-const userData = require('../../fixtures/user-data');
-const misc = require('../../fixtures/misc');
-const userFormPage = require('../../pages/user-form-page');
+const userData = require('../../../fixtures/user-data');
+const misc = require('../../../fixtures/colors');
+const userFormPage = require('../../../pages/user-form-page');
 
 describe('email input validation',function () {
     beforeAll(function () {

@@ -12,6 +12,10 @@ var userFormPage = function () {
         emailInput.clear();
     };
 
+    this.getUpdateButton = function () {
+        return updateButton;
+    };
+
     this.clickUpdateButton = function () {
         updateButton.click();
     };
