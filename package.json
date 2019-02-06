@@ -24,16 +24,13 @@
   },
   "main": "index.js",
   "scripts": {
-    "preinstall": "npm cache verify",
     "pretest": "rm -rf allure-results & rm -rf allure-report",
     "test": "protractor conf.js",
     "posttest": "allure generate allure-results --clean -o allure-report || true"
   },
   "license": "ISC",
   "dependencies": {
-    "protractor": "^5.4.2"
-  },
-  "devDependencies": {
+    "protractor": "^5.4.2",
     "allure-commandline": "^2.8.1",
     "jasmine-allure-reporter": "^1.0.2"
   }
